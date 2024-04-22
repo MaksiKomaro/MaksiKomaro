@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @MaksiKomaro
-- 👀 I’m interested in qa automation
+- 👀 I’m interested in QA automation
 - 🌱 I’m currently learning appium/selenium and Docker
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: komaro.qa@gmail.com
+- ⚡ Fun fact: I was a musician
 
 <!---
 MaksiKomaro/MaksiKomaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
